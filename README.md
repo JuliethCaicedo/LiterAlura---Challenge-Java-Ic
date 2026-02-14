@@ -41,3 +41,4 @@ El sistema permite registrar libros evitando duplicados, relacionar correctament
 ## 👩‍💻 Autor
 
 Proyecto desarrollado como parte del challenge **LiterAlura — Oracle Next Education & Alura Latam**.
+Ingrid Caicedo
